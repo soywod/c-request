@@ -1,0 +1,31 @@
+{
+  "name": "c-request",
+  "version": "0.0.1",
+  "description": "A simple HTTP request parser written in C",
+  "main": "example.c",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soywod/c-request.git"
+  },
+  "keywords": [
+    "parser",
+    "http",
+    "request",
+    "c",
+    "web",
+    "fast",
+    "simple"
+  ],
+  "author": "Clément DOUIN <clementdouin@soywod.fr>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soywod/c-request/issues"
+  },
+  "homepage": "https://github.com/soywod/c-request#readme",
+  "dependencies": {
+    "c-map": "0.0.1"
+  }
+}
